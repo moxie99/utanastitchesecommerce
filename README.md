@@ -12,7 +12,6 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.co
 
-https://user-images.githubusercontent.com/8932275/195617373-48c285bc-373f-4250-b578-cf433ec86717.mp4
 
 m/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
@@ -30,5 +29,5 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-
+Click on the link below to see video presentation: 
 https://drive.google.com/file/d/1RJd4fmbkmIg0dT6MTOQRnKCay0gGu4Gz/view?usp=sharing
